@@ -1,0 +1,3 @@
+Hello this is an input file
+This file is now being copied to the output.txt file
+The process has been completed you are now in output file
