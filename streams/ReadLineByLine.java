@@ -4,7 +4,7 @@ import java.io.*;
 
 public class ReadLineByLine {
     public static void main(String[] args) {
-        String filePath = "streams/input.txt"; // Update with your actual file path
+        String filePath = "streams/input.txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
