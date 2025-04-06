@@ -1,5 +1,4 @@
-Hello this is an input file
-This file is now being copied error to the output.txt file
-The process has been completed you error are now in output file
-THIS IS NOW IN UPPER CASE CHARACTERS ERROR
-NOW THE PROGRAM USING BUFFER READER TESTING
+Hello everyone this is Ishaan practicing the file input and output streams
+for the read and write operation
+using input stream reader and writer
+time: 20:55

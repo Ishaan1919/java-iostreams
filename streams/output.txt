@@ -3,3 +3,7 @@ this file is now being copied to the output.txt file
 the process has been completed you are now in output file
 this is now in upper case characters
 now the program using buffer reader testing
+Hello everyone this is Ishaan practicing the file input and output streams
+for the read and write operation
+using input stream reader and writer
+time: 20:55
