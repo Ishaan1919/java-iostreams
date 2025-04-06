@@ -6,4 +6,13 @@ now the program using buffer reader testing
 Hello everyone this is Ishaan practicing the file input and output streams
 for the read and write operation
 using input stream reader and writer
-time: 20:55
+time: 20:55�2
+This is the second question of copy and paste.
+
+This is the second question of copy and paste.
+
+This is the second question of copy and paste.
+This is the second attempt to solve the question.
+
+This is the second question of copy and paste.
+This is the second attempt to solve the question.
